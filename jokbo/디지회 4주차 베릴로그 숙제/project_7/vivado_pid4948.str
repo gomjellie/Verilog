@@ -1,0 +1,57 @@
+/*
+
+Vivado v2015.4 (64-bit)
+SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+Process ID: 4948
+
+Current time: 	4/3/16 8:27:14 PM KST
+Time zone: 	Korea Standard Time (Asia/Seoul)
+
+OS: Windows 8
+Version: 6.2
+Architecture: amd64
+Available processors (cores): 4
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Default font: family=Gulim,name=굴림,style=plain,size=12
+
+Java version: 	1.8.0_45 64-bit
+Java home: 	C:/Xilinx/Vivado/2015.4/tps/win64/jre
+
+User name: 	g0mJellie
+User home directory: C:/Users/g0mJellie
+User working directory: C:/Users/g0mJellie/Desktop/수행평가/디지회/디지회 4주차 베릴로그 숙제/project_7
+User country: 	KR
+User language: 	ko
+User locale: 	ko_KR
+
+Vivado preferences path: C:/Users/g0mJellie/AppData/Roaming/Xilinx/Vivado/2015.4/vivado.ini
+Vivado layouts directory: C:/Users/g0mJellie/AppData/Roaming/Xilinx/Vivado/2015.4/layouts
+
+GUI allocated memory:	135 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 385 MB
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 40 MB (+39007kb) [00:00:11]
+// [Engine Memory]: 338 MB (+202729kb) [00:00:11]
+// TclEventType: PROJECT_OPEN_DIALOG
+// bF:g (cq:JFrame):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\g0mJellie\Desktop\수행평가\디지회\디지회 4주차 베릴로그 숙제\project_7\project_7.xpr. Version: Vivado v2015.4 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {C:/Users/g0mJellie/Desktop/수행평가/디지회/디지회 4주차 베릴로그 숙제/project_7/project_7.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Users/g0mJellie/Desktop/수행평가/디지회/디지회 4주차 베릴로그 숙제/project_7/project_7.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 405 MB. GUI used memory: 31 MB. Current time: 4/3/16 8:27:16 PM KST
+// [Engine Memory]: 407 MB (+55028kb) [00:00:17]
