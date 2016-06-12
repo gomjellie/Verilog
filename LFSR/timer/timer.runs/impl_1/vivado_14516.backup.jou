@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Sun Jun 12 15:08:12 2016
+# Process ID: 14516
+# Current directory: C:/Users/gomjellie/Documents/GitHub/Verilog/timer/timer.runs/impl_1
+# Command line: vivado.exe -log Timer.vdi -applog -messageDb vivado.pb -mode batch -source Timer.tcl -notrace
+# Log file: C:/Users/gomjellie/Documents/GitHub/Verilog/timer/timer.runs/impl_1/Timer.vdi
+# Journal file: C:/Users/gomjellie/Documents/GitHub/Verilog/timer/timer.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source Timer.tcl -notrace
